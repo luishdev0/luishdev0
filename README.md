@@ -19,10 +19,14 @@
 - 🚀 Passionate about technology and continuous learning  
 - 💡 Focused on becoming a Fullstack Developer  
 - 📚 Currently improving skills in Java, Python and Web Development  
+--- 
 
-<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHkxN2ticTIydjNmZmU2b2lvN2I3OThnNHdndnFvN3ZrdXNxYXRqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
 
----
+
+<div align="center">
+  <img height="250" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
+</div>
+
 ---
 ## 🐍 Pac-Man Contribution
 
