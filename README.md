@@ -10,6 +10,9 @@
   Focused on <strong>HTML, CSS, Java and Fullstack Development</strong>
 </p>
 
+![Pac-Man contribution graph](https://raw.githubusercontent.com/luishdev0/luishdev0/output/pacman-contribution-graph.svg)
+
+
 <p align="center">
   <a href="https://github.com/luishdev0">
     <img src="https://komarev.com/ghpvc/?username=luishdev0&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
