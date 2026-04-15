@@ -2,23 +2,27 @@ name: Generate Pac-Man
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      - name: Generate Pac-Man contribution graph
+      - name: Generate pacman graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: luishdev0
+          github_user_name: ${{ github.repository_owner }}
 
-      - name: Push generated files
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push pacman graph to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
