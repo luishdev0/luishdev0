@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Fala, eu sou o Luis Henrique
 
-<!--
-**luishdev0/luishdev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas (FIAP)  
+🚀 Focado em evolução constante  
+📍 São Paulo - SP  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+- Curioso e autodidata
+- Buscando primeira oportunidade em tecnologia
+- Interesse em desenvolvimento web
+
+---
+
+## 🚀 Tecnologias que estou aprendendo
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git
+
+---
+
+## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/luis-rondao
