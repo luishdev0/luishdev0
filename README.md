@@ -21,15 +21,36 @@
 - 📚 Currently improving skills in Java, Python and Web Development  
 --- 
 ## 👤 Who I Am
-I'm a self-taught developer passionate about technology, problem-solving and continuous learning.
+
+<p align="left">
+I’m a self-taught developer driven by curiosity and a strong desire to grow in the technology field.<br>
+I enjoy solving problems, building real solutions and constantly improving my skills through practice and real-world projects.<br><br>
+
+I believe consistency and discipline are what truly make the difference, and I’m always looking for ways to evolve both technically and personally.
+</p>
+
+---
 
 ## 🎓 What I Study
-Currently studying Analysis and Systems Development at FIAP.
+
+<p align="left">
+Currently studying <b>Analysis and Systems Development at FIAP</b>.<br>
+Building a solid foundation in programming, logic and software development.<br><br>
+
+Alongside my studies, I continuously learn on my own, focusing on modern technologies and real-world applications.
+</p>
+
+---
 
 ## 🎯 What I Want
-- Get my first internship in technology
-- Improve my backend development skills
-- Build real-world projects and grow as a developer
+
+<p align="left">
+💼 Get my first internship in technology<br>
+⚙️ Strengthen my backend skills (especially Java)<br>
+🤖 Improve my knowledge in AI and databases<br>
+🚀 Build impactful real-world projects<br>
+📈 Grow as a developer and contribute to meaningful teams
+</p>
 
 ---
 
@@ -65,25 +86,36 @@ Currently studying Analysis and Systems Development at FIAP.
 ## 🌐 Connect with Me
 
 <p align="center">
+
   <a href="https://www.instagram.com/luisdh0/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
   </a>
+
   <a href="https://www.linkedin.com/in/luis-rondao" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
+
   <a href="mailto:luisrondao8@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
+
 </p>
 
 ---
 
 ## 🧠 Currently Learning
 
-- Java (OOP and backend concepts)
-- Python (logic and automation)
-- HTML, CSS and JavaScript (Front-End)
-- Git & GitHub workflow
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-OOP%20%26%20Backend-orange?style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/Python-Automation%20%26%20Logic-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-Front--End-red?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/JavaScript-Front--End-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-Workflow-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/AI-Fundamentals%20%26%20Applications-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Databases-SQL%20%26%20Modeling-green?style=for-the-badge&logo=mysql" />
+
+</p>
 
 ---
 
