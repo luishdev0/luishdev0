@@ -24,11 +24,5 @@
 ![Git](https://img.shields.io/badge/Git-black)
 ---
 
-## 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Contato
 - LinkedIn: www.linkedin.com/in/luis-rondao
