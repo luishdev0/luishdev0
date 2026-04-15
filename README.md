@@ -62,15 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=luishdev0&theme=dark&hide_border=false"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=luishdev0&show_icons=true&theme=dark"/>
-</div>
-
----
-
 ## 🧠 Currently Learning
 
 - Java (OOP and backend concepts)
