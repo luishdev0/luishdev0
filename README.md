@@ -20,8 +20,18 @@
 - 💡 Focused on becoming a Fullstack Developer  
 - 📚 Currently improving skills in Java, Python and Web Development  
 --- 
+## 👤 Who I Am
+I'm a self-taught developer passionate about technology, problem-solving and continuous learning.
 
+## 🎓 What I Study
+Currently studying Analysis and Systems Development at FIAP.
 
+## 🎯 What I Want
+- Get my first internship in technology
+- Improve my backend development skills
+- Build real-world projects and grow as a developer
+
+---
 
 <div align="center">
   <img height="250" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
