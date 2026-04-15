@@ -22,8 +22,6 @@
   </a>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/luishdev0/luishdev0/output/github-contribution-grid-snake.svg)
-
 <img align="right" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHkxN2ticTIydjNmZmU2b2lvN2I3OThnNHdndnFvN3ZrdXNxYXRqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ## 🚀👨🏾‍💻 My Technologies
@@ -34,8 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60"/>
-</p>
+ 
 
 ## 🌐 My Social Networks
 
@@ -49,10 +46,4 @@
   <a href="mailto:luisrondao8@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
-
-## ⚙️ GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=luishdev0&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
