@@ -28,7 +28,6 @@
 </div>
 
 ---
-## 🐍 Pac-Man Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luishdev0/luishdev0/output/pacman-contribution-graph-dark.svg">
