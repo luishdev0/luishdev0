@@ -81,6 +81,17 @@ Alongside my studies, I continuously learn on my own, focusing on modern technol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="60"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Node--RED-Flow%20Automation-red?style=for-the-badge&logo=nodered" />
+  <img src="https://img.shields.io/badge/IBM%20Watson-AI%20Assistant-blue?style=for-the-badge&logo=ibm" />
+  <img src="https://img.shields.io/badge/Watson%20Assistant-Chatbot-052FAD?style=for-the-badge&logo=ibm" />
+  <img src="https://img.shields.io/badge/Speech%20to%20Text-Audio%20Recognition-purple?style=for-the-badge&logo=ibm" />
+  <img src="https://img.shields.io/badge/Text%20to%20Speech-Voice%20AI-green?style=for-the-badge&logo=ibm" />
+  <img src="https://img.shields.io/badge/Telegram%20Bot%20API-Bot%20Integration-2CA5E0?style=for-the-badge&logo=telegram" />
+  <img src="https://img.shields.io/badge/JSON-Data%20Structure-black?style=for-the-badge&logo=json" />
+  <img src="https://img.shields.io/badge/API%20Integration-Backend%20Services-orange?style=for-the-badge" />
+</p>
+
 ---
 
 ## 🌐 Connect with Me
@@ -114,6 +125,9 @@ Alongside my studies, I continuously learn on my own, focusing on modern technol
 <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Workflow-black?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/AI-Fundamentals%20%26%20Applications-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Databases-SQL%20%26%20Modeling-green?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/Node--RED-Automation%20Flows-red?style=for-the-badge&logo=nodered" />
+<img src="https://img.shields.io/badge/IBM%20Watson-AI%20Services-blue?style=for-the-badge&logo=ibm" />
+<img src="https://img.shields.io/badge/Telegram%20Bots-API%20Integration-2CA5E0?style=for-the-badge&logo=telegram" />
 
 </p>
 
