@@ -8,18 +8,20 @@
 
 <p align="center">
   <strong>Systems Analysis and Development Student - FIAP</strong><br>
-  Focused on <strong>Front-End, Java, Python and Fullstack Development</strong>
+  Focused on <strong>Front-End, React, Java, Python, SQL and Fullstack Development</strong>
 </p>
 
 ---
 
 ## 👨🏾‍💻 About Me
 
-- 🎓 ADS student at FIAP (São Paulo)
-- 🚀 Passionate about technology and continuous learning  
-- 💡 Focused on becoming a Fullstack Developer  
-- 📚 Currently improving skills in Java, Python and Web Development  
---- 
+* 🎓 ADS student at FIAP (São Paulo)
+* 🚀 Passionate about technology and continuous learning
+* 💡 Focused on becoming a Fullstack Developer
+* 📚 Currently improving skills in Java, Python, React, SQL and Web Development
+
+---
+
 ## 👤 Who I Am
 
 <p align="left">
@@ -27,6 +29,7 @@ I’m a self-taught developer driven by curiosity and a strong desire to grow in
 I enjoy solving problems, building real solutions and constantly improving my skills through practice and real-world projects.<br><br>
 
 I believe consistency and discipline are what truly make the difference, and I’m always looking for ways to evolve both technically and personally.
+
 </p>
 
 ---
@@ -35,9 +38,10 @@ I believe consistency and discipline are what truly make the difference, and I�
 
 <p align="left">
 Currently studying <b>Analysis and Systems Development at FIAP</b>.<br>
-Building a solid foundation in programming, logic and software development.<br><br>
+Building a solid foundation in programming, logic, databases and software development.<br><br>
 
 Alongside my studies, I continuously learn on my own, focusing on modern technologies and real-world applications.
+
 </p>
 
 ---
@@ -48,6 +52,8 @@ Alongside my studies, I continuously learn on my own, focusing on modern technol
 💼 Get my first internship in technology<br>
 ⚙️ Strengthen my backend skills (especially Java)<br>
 🤖 Improve my knowledge in AI and databases<br>
+🌐 Develop modern interfaces with React<br>
+🗄️ Improve my SQL and database modeling skills<br>
 🚀 Build impactful real-world projects<br>
 📈 Grow as a developer and contribute to meaningful teams
 </p>
@@ -73,15 +79,19 @@ Alongside my studies, I continuously learn on my own, focusing on modern technol
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="60"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Developer-Oracle%20Database-red?style=for-the-badge&logo=oracle" />
+  <img src="https://img.shields.io/badge/SQL%20Data%20Modeler-Database%20Modeling-orange?style=for-the-badge&logo=oracle" />
   <img src="https://img.shields.io/badge/Node--RED-Flow%20Automation-red?style=for-the-badge&logo=nodered" />
   <img src="https://img.shields.io/badge/IBM%20Watson-AI%20Assistant-blue?style=for-the-badge&logo=ibm" />
   <img src="https://img.shields.io/badge/Watson%20Assistant-Chatbot-052FAD?style=for-the-badge&logo=ibm" />
@@ -120,11 +130,14 @@ Alongside my studies, I continuously learn on my own, focusing on modern technol
 
 <img src="https://img.shields.io/badge/Java-OOP%20%26%20Backend-orange?style=for-the-badge&logo=java" />
 <img src="https://img.shields.io/badge/Python-Automation%20%26%20Logic-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/React-Front--End-61DAFB?style=for-the-badge&logo=react" />
 <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-Front--End-red?style=for-the-badge&logo=html5" />
 <img src="https://img.shields.io/badge/JavaScript-Front--End-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=oracle" />
+<img src="https://img.shields.io/badge/SQL%20Developer-Oracle%20Database-red?style=for-the-badge&logo=oracle" />
+<img src="https://img.shields.io/badge/SQL%20Data%20Modeler-Database%20Modeling-orange?style=for-the-badge&logo=oracle" />
 <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Workflow-black?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/AI-Fundamentals%20%26%20Applications-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Databases-SQL%20%26%20Modeling-green?style=for-the-badge&logo=mysql" />
 <img src="https://img.shields.io/badge/Node--RED-Automation%20Flows-red?style=for-the-badge&logo=nodered" />
 <img src="https://img.shields.io/badge/IBM%20Watson-AI%20Services-blue?style=for-the-badge&logo=ibm" />
 <img src="https://img.shields.io/badge/Telegram%20Bots-API%20Integration-2CA5E0?style=for-the-badge&logo=telegram" />
@@ -134,7 +147,7 @@ Alongside my studies, I continuously learn on my own, focusing on modern technol
 ---
 
 <div align="center">
-  
+
 🔥 *Always evolving and building new projects* 🚀
 
 </div>
